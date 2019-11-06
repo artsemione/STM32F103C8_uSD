@@ -8,7 +8,7 @@ IDE: Keil uVision V5
 How to Test the code:
 
         To check if the code works for you, just do the wiring conections described below and load the code 
-        to the microcontroller. It should create an .txt file insede de uSD card if the message : 
+        to the microcontroller. It should create an .txt file insede de uSD card with the message : 
         "Test Done Successfully !" 
         
         **Only work for Low Capacit uSD cards (Under 2GB storage)
