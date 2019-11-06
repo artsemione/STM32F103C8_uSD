@@ -15,9 +15,7 @@ How to Use MMC/SDC:         http://elm-chan.org/docs/mmc/mmc_e.html
  PB13: SPI2 SCK  /
  PB12: Chip Select (*User Define) /
     
-#MicroSD Card Adapter Pins:
-  
-   Adapter:        STM32F103C8:
+#MicroSD Card Adapter Pins:   
     CS      <--->   PB12 / 
     SCK     <--->   PB13 /
     MOSI    <--->   PB15 /
