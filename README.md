@@ -7,7 +7,8 @@ IDE: Keil uVision V5
 
 Code Guide to the project:  http://narodstream.ru/stm-urok-88-sd-spi-fatfs-chast-1/
 How to Use MMC/SDC:         http://elm-chan.org/docs/mmc/mmc_e.html
-
+que merda 
+nao consigo
 #Microcontroller Pin Configuration:
   
  PB15: SPI2 MOSI.
