@@ -5,6 +5,14 @@ Writing operations on a SD card for dataloggers, using a STM32F103 microcontroll
 Code generated from STM Cube MX.
 IDE: Keil uVision V5
 
+How to Test the code:
+
+        To check if the code works for you, just do the wiring conections described below and load the code 
+        to the microcontroller. It should create an .txt file insede de uSD card if the message : 
+        "Test Done Successfully !" 
+        
+        **Only work for Low Capacit uSD cards (Under 2GB storage)
+
 References:
 
     Code Guide to the project:  http://narodstream.ru/stm-urok-88-sd-spi-fatfs-chast-1/
